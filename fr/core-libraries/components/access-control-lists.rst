@@ -584,7 +584,7 @@ le faisons toujours :
 
 
     
-Une fois que nous avons cela, nous pouvons utiliser la consile d'application 
+Une fois que nous avons cela, nous pouvons utiliser la console d'application 
 ACL pour vérifier la structure de l'arbre.
 
 ::
