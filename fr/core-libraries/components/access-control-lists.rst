@@ -607,7 +607,7 @@ Je suppose qu'il n'y en a pas beaucoup dans l'arbre à ce niveau,
 mais au minimum quelques vérifications que nous avons faites aux 
 quatres noeuds de niveaux supérieurs. Ajoutons quelques enfants 
 à ces noeuds ARO en ajoutant nos AROs utilisateurs dans ces groupes. 
-Tous les bons citoyens de la Terre du Milieu ont un accompte dans notre 
+Tous les bons citoyens de la Terre du Milieu ont un compte dans notre 
 nouveau système, nous allons alors lier les enregistrements d'ARO aux 
 enregistrements spécifiques du modèle de notre base de données.
 
